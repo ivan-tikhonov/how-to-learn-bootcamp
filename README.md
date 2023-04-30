@@ -2,43 +2,26 @@
 
 ## Описание:
 
-How to learn - это интерактивная страница, на которой пользователи могут делиться фотографиями, удалять их и ставить лайки.
+How to learn - это статичный сайт-лендинг, созднаный для тренировки навыков вёрстки и методологии БЭМ
 
 
 
-[Проектная работа на GitHub Pages](https://ivan-tikhonov.github.io/mesto-project-bootcamp/)
+[Проектная работа на GitHub Pages](https://ivan-tikhonov.github.io/how-to-learn-bootcamp/)
 
-## Функционал:
-
-* Редактирование аватара и профиля;
-* Добавление фотографии и лайков;
-* Удаление фотографии и лайков;
-* Открытие фотографии в полном размере;
-* Валидация форм (LiveValidation).
 
 ## Технологии:
 
 * HTML5;
 * CSS3:
-  - Flexbox;
-  - Grid Layout;
-  - Positioning;
-  - Adaptive UI;
-  - Media Queries;
+* Flexbox;
 * Методология БЭМ;
 * Файловая структура Nested БЭМ;
-* JavaScript:
-  - Объектно-ориентированное программирование;
-  - Промисы (Promise);
-  - Асинхронность и оптимизация;
-  - API (Application Programming Interface);
-- Webpack.
 
 ## Инструкция по установке:
 
 Клонировать репозиторий:
 
-    git clone https://github.com/ivan-tikhonov/mesto-project-bootcamp.git
+    git clone https://github.com/ivan-tikhonov/how-to-learn-bootcamp.git
 
 Установить зависимости:
 
